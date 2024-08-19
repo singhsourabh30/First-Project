@@ -1,1 +1,1 @@
-<style Bg color='red'> Biometric Voting System</style>
+<style color='red'> Biometric Voting System</style>
